@@ -1,0 +1,25 @@
+.ExpenseFilter{
+    margin: 10px;
+}
+.ExpenseFilter__bars>label{
+    font-size: large;
+}
+.ExpenseFilter__bars{
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+select{
+    margin-left: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    /* transition: all 0.5s ease-in-out; */
+}
+select:active{
+    outline: 1px solid black;
+}
+select:focus{
+    outline: 0px solid black;
+}

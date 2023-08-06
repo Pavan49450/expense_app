@@ -1,0 +1,40 @@
+.Add-expense__controls{
+    display: grid;
+    grid-template-columns: repeat(auto-fit ,minmax(200px, 1fr));
+}
+.Add-expense__control{
+    display: grid;
+    /* padding: 10px; */
+    margin: 5px;
+    
+}
+.Add-expense__control>input{
+    border-radius: 5px;
+    border: none;
+    margin:5px;
+    padding: 7px;
+    margin-left: 0px;
+    background-color: rgb(160, 160, 160);
+    /* color:white ; */
+}
+
+.Add-expense__control>input:focus{
+    outline: 1px solid;
+}
+.Add-expense__control>input:hover{
+    /* background-color: rgb(245, 244, 244); */
+    background-image: ;
+    
+}
+.Add-expense__actions{
+    display: flex;
+    justify-content: flex-end;
+}
+.Add-expense__actions>button{
+    padding: 10px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+

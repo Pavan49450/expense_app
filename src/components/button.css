@@ -1,0 +1,19 @@
+.btn{
+
+    border-radius: 30px;
+    border: 0px solid;
+    box-shadow: 3px 3px 3px rgb(187 161 161);
+    background-color: #c00;
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(253, 3, 3);
+    transition: all 0.3s ease-in-out;
+    box-shadow: 4px 3px 5px rgb(187 161 161);
+
+
+}
+    
+.btn:focus{
+    border: 1px solid black;
+}

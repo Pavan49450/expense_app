@@ -1,0 +1,18 @@
+.expenseDate{
+    display: grid;
+    
+    justify-items: center;
+    border: 1px solid #065fd4;
+    background-color: #3ea6ff;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+    margin: 5px;
+}
+.expenseDateMonth{
+    font-size:large;
+}
+.expenseDateday{
+    font-size:xx-large;
+    
+}

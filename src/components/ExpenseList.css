@@ -1,0 +1,15 @@
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.status{
+    font-size: large;
+    margin: 10px;
+    background-color: black;
+    border: 1px solid white;
+}
+.status>p{
+    text-align: center;
+    font-size: large;
+    color: white;
+}

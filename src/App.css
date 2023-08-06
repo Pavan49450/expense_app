@@ -1,0 +1,25 @@
+/* .App {
+	text-align: center;
+} */
+body{
+    /* background: transparent; */
+    background-color: rgb(230, 230, 230);
+
+}
+
+.App{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width:500px;
+    background-color: rgb(230, 230, 230);
+}
+h1{
+    display: block;
+    margin: auto;    
+    text-align: center;
+    font-size:200%;
+    border: 1px solid;
+    width:600px;
+    /* margin: 0px; */
+}
